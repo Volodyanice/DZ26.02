@@ -1,0 +1,15 @@
+C:\Users\Владимер\dz26.02\DZn15\obj\Debug\net6.0\DZn15.csproj.AssemblyReference.cache
+C:\Users\Владимер\dz26.02\DZn15\obj\Debug\net6.0\DZn15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владимер\dz26.02\DZn15\obj\Debug\net6.0\DZn15.AssemblyInfoInputs.cache
+C:\Users\Владимер\dz26.02\DZn15\obj\Debug\net6.0\DZn15.AssemblyInfo.cs
+C:\Users\Владимер\dz26.02\DZn15\obj\Debug\net6.0\DZn15.csproj.CoreCompileInputs.cache
+C:\Users\Владимер\dz26.02\DZn15\bin\Debug\net6.0\DZn15.exe
+C:\Users\Владимер\dz26.02\DZn15\bin\Debug\net6.0\DZn15.deps.json
+C:\Users\Владимер\dz26.02\DZn15\bin\Debug\net6.0\DZn15.runtimeconfig.json
+C:\Users\Владимер\dz26.02\DZn15\bin\Debug\net6.0\DZn15.dll
+C:\Users\Владимер\dz26.02\DZn15\bin\Debug\net6.0\DZn15.pdb
+C:\Users\Владимер\dz26.02\DZn15\obj\Debug\net6.0\DZn15.dll
+C:\Users\Владимер\dz26.02\DZn15\obj\Debug\net6.0\refint\DZn15.dll
+C:\Users\Владимер\dz26.02\DZn15\obj\Debug\net6.0\DZn15.pdb
+C:\Users\Владимер\dz26.02\DZn15\obj\Debug\net6.0\DZn15.genruntimeconfig.cache
+C:\Users\Владимер\dz26.02\DZn15\obj\Debug\net6.0\ref\DZn15.dll
